@@ -3,7 +3,7 @@ Options +FollowSymLinks
 RewriteEngine On
 
 # Adresse de base de réécriture
-RewriteBase /shaka-ponk
+RewriteBase /shakaponk
 # Règles
 RewriteCond %{SCRIPT_FILENAME} !-f
 RewriteCond %{SCRIPT_FILENAME} !-d
